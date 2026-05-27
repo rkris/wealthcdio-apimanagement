@@ -32,8 +32,6 @@ src/main/java/com/wealthcdio/banking/
 ├── dto/                 Request/response objects
 └── exception/           Domain errors and global handler
 
-schema/requirements-schema.sql   H2 DDL reference (tables auto-created by JPA)
-postman/                         Postman collection for manual testing
 ```
 
 ## Prerequisites
